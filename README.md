@@ -6,3 +6,4 @@
 ## [5.委派模式和策略模式](https://github.com/mybeloved/delegate-and-strategy-pattern-20190331.git)
 ## [6.模版模式和适配器模式](https://github.com/mybeloved/template-and-adapter-pattern-20190516.git)
 ## [7.装饰者模式和观察者模式](https://github.com/mybeloved/decorator-and-observer-pattern-20190521.git)
+## [8.设计模式总结](https://github.com/mybeloved/design-patterns-summary.git)
